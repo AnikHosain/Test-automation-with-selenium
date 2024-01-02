@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyJunit" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-02T12:33:50" hostname="REVISION-PC" time="37.882">
+  <properties/>
+  <testcase name="Check if image is exists" classname="MyJunit" time="37.882"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Jan 02, 2024 6:33:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 120, so returning the closest version found: 116
+]]></system-err>
+</testsuite>
